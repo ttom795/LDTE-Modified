@@ -33,6 +33,7 @@ else
 	echo "LEGO READER V2.10 (modified)" > configs/c.1/strings/0x409/configuration 
 	ln -s functions/hid.g0/ configs/c.1/
 
+	sleep 1
 	name="$(ls /sys/class/udc)"
 	echo "$name">UDC
 	echo "USB device created (1st launch)"
