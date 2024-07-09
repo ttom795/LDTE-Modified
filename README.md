@@ -9,14 +9,15 @@ Keep in mind, this one-stop solution has only been tested by myself on an Ubuntu
 
 #### Usage
 
-1. Run the following command
+1. Run the following commands
    ```
+   npm install
    sudo bash ./usb_script.sh
    ```
 
 2. Type `http://localhost` in a browser to use the emulator.
 
-   If you want to turn it off, just press `Ctrl + C` in the terminal, then use the command `sudo shutdown now` to power off the virtual machine or just pause it from the host.
+   If you want to turn it off, just press `Ctrl + C` in the terminal, then use the command `sudo shutdown now` to power off the virtual machine or just pause it from the host. To restart it, only use the usb_script.sh command.
    
 3. Finally, start your console emulator and the game itself (e.g. Cemu).
 
