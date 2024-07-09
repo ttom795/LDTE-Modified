@@ -10,8 +10,8 @@ Keep in mind, this one-stop solution has only been tested by myself on an Ubuntu
 #### Usage
 
 1. Run the following command
-   ```sudo 
-   bash ./usb_script.sh
+   ```
+   sudo bash ./usb_script.sh
    ```
 
 2. Type `http://localhost` in a browser to use the emulator.
