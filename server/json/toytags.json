@@ -1,1 +1,110 @@
-[]
+[
+    {
+        "name": "Batman",
+        "id": 1,
+        "uid": "04AA9F03053780",
+        "index": "-1",
+        "type": "character",
+        "vehicleUpgradesP23": 0,
+        "vehicleUpgradesP25": 0
+    },
+    {
+        "name": "Gandalf",
+        "id": 2,
+        "uid": "049FBEB1918B80",
+        "index": "-1",
+        "type": "character",
+        "vehicleUpgradesP23": 0,
+        "vehicleUpgradesP25": 0
+    },
+    {
+        "name": "Wyldstyle",
+        "id": 3,
+        "uid": "04F86540284C80",
+        "index": "-1",
+        "type": "character",
+        "vehicleUpgradesP23": 0,
+        "vehicleUpgradesP25": 0
+    },
+    {
+        "name": "The Doctor",
+        "id": 15,
+        "uid": "0428380303EA80",
+        "index": "-1",
+        "type": "character",
+        "vehicleUpgradesP23": 0,
+        "vehicleUpgradesP25": 0
+    },
+    {
+        "name": "Finn the Human",
+        "id": 48,
+        "uid": "048E20324B5F80",
+        "index": "-1",
+        "type": "character",
+        "vehicleUpgradesP23": 0,
+        "vehicleUpgradesP25": 0
+    },
+    {
+        "name": "Shaggy",
+        "id": 38,
+        "uid": "04FE61C51DA380",
+        "index": "-1",
+        "type": "character",
+        "vehicleUpgradesP23": 0,
+        "vehicleUpgradesP25": 0
+    },
+    {
+        "name": "Sonic the Hedgehog",
+        "id": 57,
+        "uid": "047BF5E9149080",
+        "index": "-1",
+        "type": "character",
+        "vehicleUpgradesP23": 0,
+        "vehicleUpgradesP25": 0
+    },
+    {
+        "name": "Betelgeuse",
+        "id": 72,
+        "uid": "0440E36ABBCD80",
+        "index": "-1",
+        "type": "character",
+        "vehicleUpgradesP23": 0,
+        "vehicleUpgradesP25": 0
+    },
+    {
+        "name": "E.T.",
+        "id": 61,
+        "uid": "04A2A866AF1D80",
+        "index": "-1",
+        "type": "character",
+        "vehicleUpgradesP23": 0,
+        "vehicleUpgradesP25": 0
+    },
+    {
+        "name": "Batmobile",
+        "id": 1006,
+        "uid": "040D537EFDFC80",
+        "index": "-1",
+        "type": "vehicle",
+        "vehicleUpgradesP23": 0,
+        "vehicleUpgradesP25": 0
+    },
+    {
+        "name": "TARDIS",
+        "id": 1030,
+        "uid": "044164F80DC080",
+        "index": "-1",
+        "type": "vehicle",
+        "vehicleUpgradesP23": 0,
+        "vehicleUpgradesP25": 0
+    },
+    {
+        "name": "K-9",
+        "id": 1027,
+        "uid": "0498EB6ED6C480",
+        "index": "-1",
+        "type": "vehicle",
+        "vehicleUpgradesP23": 0,
+        "vehicleUpgradesP25": 0
+    }
+]
