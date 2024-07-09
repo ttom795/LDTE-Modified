@@ -11,6 +11,7 @@ Keep in mind, this one-stop solution has only been tested by myself on an Ubuntu
 
 1. Run the following commands
    ```
+   sudo apt install linux-tools-5.15.0-113-generic
    npm install
    sudo bash ./usb_script.sh
    ```
